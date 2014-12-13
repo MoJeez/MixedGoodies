@@ -1,0 +1,2 @@
+C:\Users\jesus_000\Dropbox\Arbejde\FabIT\CSharp\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe.config
+C:\Users\jesus_000\Dropbox\Arbejde\FabIT\CSharp\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.csprojResolveAssemblyReference.cache
