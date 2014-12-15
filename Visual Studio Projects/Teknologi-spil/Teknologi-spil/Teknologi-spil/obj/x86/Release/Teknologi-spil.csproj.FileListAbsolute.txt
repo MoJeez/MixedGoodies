@@ -1,0 +1,10 @@
+C:\Users\jesus_000\Dropbox\ARBEJDE\Uddannelses Relaterede\EUD\Programmering\C# Færdige opgaver\Teknologi-spil\Teknologi-spil\bin\Release\Teknologi-spil.exe
+C:\Users\jesus_000\Dropbox\ARBEJDE\Uddannelses Relaterede\EUD\Programmering\C# Færdige opgaver\Teknologi-spil\Teknologi-spil\bin\Release\Teknologi-spil.pdb
+C:\Users\jesus_000\Dropbox\ARBEJDE\Uddannelses Relaterede\EUD\Programmering\C# Færdige opgaver\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.csprojResolveAssemblyReference.cache
+C:\Users\jesus_000\Dropbox\ARBEJDE\Uddannelses Relaterede\EUD\Programmering\C# Færdige opgaver\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.exe
+C:\Users\jesus_000\Dropbox\ARBEJDE\Uddannelses Relaterede\EUD\Programmering\C# Færdige opgaver\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.pdb
+C:\Users\jesus_000\Dropbox\Uddannelse\Grundforløb\Jonathan's C#\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.exe
+C:\Users\jesus_000\Dropbox\Uddannelse\Grundforløb\Jonathan's C#\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.pdb
+C:\Users\jesus_000\Dropbox\Uddannelse\Grundforløb\Jonathan's C#\Teknologi-spil\Teknologi-spil\bin\Release\Teknologi-spil.exe
+C:\Users\jesus_000\Dropbox\Uddannelse\Grundforløb\Jonathan's C#\Teknologi-spil\Teknologi-spil\bin\Release\Teknologi-spil.pdb
+C:\Users\jesus_000\Dropbox\Uddannelse\Grundforløb\Jonathan's C#\Teknologi-spil\Teknologi-spil\obj\x86\Release\Teknologi-spil.csprojResolveAssemblyReference.cache
